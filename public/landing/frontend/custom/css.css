@@ -1,0 +1,56 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/f5/25/6f/f5256f22b9dea5d4eb80c41f91f87793.jpg");
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.form-label {
+    font-weight: bold;
+    color: white;
+}
+
+.form-check-label {
+    color: white;
+}
+
+.tag-p {
+    margin-top: -9px;
+    color: rgb(241, 220, 220);
+}
+
+.btn-primary {
+    width: 100%;
+}
+
+.akun {
+    color: white;
+}
+
+.akun a {
+    text-decoration: none !important;
+}
+
+.btn-sign {
+    color: white;
+}
+
+body h1 {
+    padding: 40px;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body p {
+    padding: 0px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@media(max-width: 932px) {
+    .display-none {
+        display: none !important;
+    }
+}
